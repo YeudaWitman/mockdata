@@ -1,4 +1,5 @@
-{   {
+[
+    {
         "Version": 1,
         "Key": "215854",
         "Type": "City",
@@ -148,4 +149,4 @@
             "LocalizedName": "West Java"
         }
     }
-}
+]
