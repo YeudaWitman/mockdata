@@ -21,5 +21,25 @@
         "phone": 4123735742,
         "birthday": {"year": 1997, "month": 10, "day": 22}
         }
+    ],
+    "teachers": [
+      {
+        "id": 1, 
+        "name": {"firstName": "Phyllis", "middleName": "T", "lastName": "Blevins"},
+        "address": {"street": "3010 White Oak Drive", "city": "Blue Springs", "state": "MO", "zipCode": 64015},
+        "phone": 8166221457,
+        "birthday": {"year": 1974, "month": 7, "day": 14}
+      },
+      {
+        "id": 1, 
+        "name": {"firstName": "Samuel", "middleName": "S", "lastName": "Wall"},
+        "address": {"street": "4525 Massachusetts Avenue", "city": "Washington", "state": "DC", "zipCode": 20024},
+        "phone": 8166221457,
+        "birthday": {"year": 1974, "month": 7, "day": 14}
+      }
+    ],
+    "classes": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
     ]
   }
